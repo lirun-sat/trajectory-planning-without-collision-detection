@@ -1,1 +1,2 @@
-main code
+3000 steps for searching updates. 
+after 3000 steps, if (woa_tlbo_fitness_temp_3 > 200), end current searching process, go to next searching iteration.
